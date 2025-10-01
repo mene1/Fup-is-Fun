@@ -12,7 +12,7 @@ Em outras palavras, dado dois inteiros positivos, por exemplo, 115 e 15, podemos
 Implemente um programa que receba dois inteiros positivos e calcule o valor do quociente e resto da divisão do primeiro pelo segundo número.
 
 ### Entrada
-    Dois inteiros, um por linha.
+- Dois inteiros, um por linha.
 
 ### Saída
-    Quociente e resto separados por espaço.
+- Quociente e resto separados por espaço.
