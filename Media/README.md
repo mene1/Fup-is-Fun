@@ -8,4 +8,3 @@ Escreva um programa que recebe dois números inteiros e retorna a média aritmé
 
 ### Saída
 - A saída deve conter a média aritmética dos dois números com uma casa decimal.
-- 
