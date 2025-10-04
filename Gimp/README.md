@@ -1,15 +1,14 @@
-## Distância entre dois pontos
+## Pintando a casa
 
 ### Contexto
-Um atirador de elite estava atirando a 400 metros de distância em um papel milimetrado.
-Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles. Como ele não tinha uma régua, ele pegou as coordenadas dos pontos no plano cartesiano e usou a fórmula da distância entre dois pontos.
+Fernando comprou uma casa triangular. Ao tentar calcular a quantidade de tinta necessária para pintar as paredes, ele percebeu que precisava saber como calcular a área de um triângulo. Felizmente, ele encontrou a Fórmula de Heron, que permite calcular a área de um triângulo a partir do tamanho de seus lados.
 
-    d(AB) = (x2-x1)^2+(y2-y1)^2
-Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto, imprima a distância entre os pontos com duas casas decimais.
+Implemente um programa que, dado o tamanho dos três lados de um triângulo, calcule a área utilizando a Fórmula de Heron:
+
+    Área = √p*(p-a)*(p-b)*(p-c)
 
 ### Entrada
-- Coordenada X e coordenada Y do primeiro ponto.
-- Coordenada X e coordenada Y do segundo ponto.
+- Três números em ponto flutuante representando os lados do triângulo, um por linha.
 
 ### Saída
-- A distância entre os pontos com duas casas decimais.
+- A área do triângulo com duas casas decimais.
