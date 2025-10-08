@@ -35,12 +35,12 @@ Refazendo atividades em C da disciplina de Fundamentos da Programação
 
 [@quantos: Quantos são iguais](https://github.com/mene1/Fup-is-Fun/tree/main/Igual)
 
-@impar: Ímpar ou par - OBI 2016 - F1P1
+[@impar: Ímpar ou par - OBI 2016 - F1P1](https://github.com/mene1/Fup-is-Fun/tree/main/ParouImpar)
 
-@round: Arredondar número
+[@round: Arredondar número]()
 
-@mumia: Criança, jovem, adulto
+[@mumia: Criança, jovem, adulto]()
 
-@meio: A raposa e os esquilos
+[@meio: A raposa e os esquilos]()
 
-@jokenpo: Jokenpo das tartarugas
+[@jokenpo: Jokenpo das tartarugas]()
