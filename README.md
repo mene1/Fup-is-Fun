@@ -39,7 +39,7 @@ Refazendo atividades em C da disciplina de Fundamentos da Programação
 
 [@round: Arredondar número]()
 
-[@mumia: Criança, jovem, adulto]()
+[@mumia: Criança, jovem, adulto](https://github.com/mene1/Fup-is-Fun/tree/main/Age)
 
 [@meio: A raposa e os esquilos]()
 
