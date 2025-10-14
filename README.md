@@ -41,6 +41,6 @@ Refazendo atividades em C da disciplina de Fundamentos da Programação
 
 [@mumia: Criança, jovem, adulto](https://github.com/mene1/Fup-is-Fun/tree/main/Age)
 
-[@meio: A raposa e os esquilos]()
+[@meio: A raposa e os esquilos](https://github.com/mene1/Fup-is-Fun/tree/main/Mediana)
 
-[@jokenpo: Jokenpo das tartarugas]()
+[@jokenpo: Jokenpo das tartarugas](https://github.com/mene1/Fup-is-Fun/tree/main/Jokenpo)
